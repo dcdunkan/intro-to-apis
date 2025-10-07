@@ -60,7 +60,7 @@ layout: default
 - Interfaces between the user and the internal functionalities
 - Visual, graphical components
 - Interactive components: **buttons**, **text inputs**, etc.
-- Such interactive components let's the user "talk" to the internals
+- Such interactive components lets the user "talk" to the internals
 
 </v-click>
 
